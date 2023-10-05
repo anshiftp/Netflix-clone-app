@@ -1,0 +1,27 @@
+.netflix {
+    position: fixed;
+    left: 20px;
+    width: 80px;
+}
+
+.avatar {
+    position: fixed;
+    right: 20px;
+    height: 30px;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 30px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #111;
+}
+
+.fade {
+    height: 7.4rem;
+    background-image: linear-gradient(180deg, transparent, rgba(37, 37, 37, .61));
+}
